@@ -52,7 +52,9 @@ public class colors implements Listener {
 		if(player.hasPermission("colorednames.pink")) {
 			player.setDisplayName("§d" + player.getName() + "§f");
 		}
-																		
+		if(player.hasPermission("colorednames.yellow")) {
+			player.setDisplayName("§e" + player.getName() + "§f");
+		}		
 																		
 	}
 	
