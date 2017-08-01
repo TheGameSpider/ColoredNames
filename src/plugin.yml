@@ -1,0 +1,4 @@
+name: ColoredNames
+main: TheGameSpider.plugins.ColoredNames.main
+version: 1.0
+author: TheGameSpider
